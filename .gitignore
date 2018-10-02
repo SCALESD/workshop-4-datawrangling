@@ -1,0 +1,5 @@
+# Ignore data files
+selenium/data/*
+
+# Ignore credentials
+stw.py
