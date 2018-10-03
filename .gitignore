@@ -1,5 +1,8 @@
+# Ignore checkpoint files
+.ipynb_checkpoints/*
+# Ignore cache
+__pycache__/*
 # Ignore data files
 selenium/data/*
-
 # Ignore credentials
 stw.py
